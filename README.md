@@ -9,7 +9,6 @@ I'm a student and Jr. Android Developer
   <code><img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/kotlin/kotlin.png" alt="Kotlin" width="40" height="40" /></code>&nbsp;
   <code><img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="Jetpack" width="40" height="40" /></code>&nbsp;
   <code><img src="https://img.stackshare.io/service/2856/retrofit-logo.png" alt="Retrofit" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
 </p>
 
